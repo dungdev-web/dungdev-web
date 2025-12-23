@@ -76,7 +76,9 @@ Git • Docker • Figma • Firebase • AWS (Basic)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight" />
+  
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight)
 
 ---
 
