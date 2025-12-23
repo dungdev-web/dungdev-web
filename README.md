@@ -89,5 +89,5 @@ Git • Docker • Figma • Firebase • AWS (Basic)
 ---
 
 ## 📫 Contact
-📧 your.email@gmail.com  
+📧 dung.dev.web@gmail.com  
 📍 Ho Chi Minh City, Vietnam
