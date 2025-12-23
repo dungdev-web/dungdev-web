@@ -75,9 +75,16 @@ Git • Docker • Figma • Firebase • AWS (Basic)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
+
 
 ---
 
