@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools
-Git • Docker • Figma • Firebase • AWS (Basic)
+Git • Figma • Firebase • AWS (Basic)
 
 ---
 
