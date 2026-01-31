@@ -64,7 +64,7 @@ Git • Figma • Firebase • AWS (Basic)
 ### 🌤 Weather Forecast App
 **React • REST API • Chart.js**
 
-- 7-day forecast & historical data visualization
+- 5-day forecast & historical data visualization
 - Location-based search
 - Interactive charts
 
