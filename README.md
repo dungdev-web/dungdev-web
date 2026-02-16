@@ -22,7 +22,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
@@ -39,7 +39,7 @@ Git • Figma • Firebase • AWS (Basic)
 
 ## Featured Projects
 
-### 📋 Task Management Web App
+### Task Management Web App
 **React • Tailwind • Node.js • MongoDB • JWT**
 
 - Built reusable UI components with responsive design
@@ -50,7 +50,7 @@ Git • Figma • Firebase • AWS (Basic)
 
 ---
 
-### 🛍️ E-Commerce Platform
+### E-Commerce Platform
 **React • PostgreSQL • Stripe • Docker**
 
 - Integrated Stripe payment gateway
@@ -61,7 +61,7 @@ Git • Figma • Firebase • AWS (Basic)
 
 ---
 
-### 🌤 Weather Forecast App
+### Weather Forecast App
 **React • REST API • Chart.js**
 
 - 5-day forecast & historical data visualization
@@ -72,7 +72,7 @@ Git • Figma • Firebase • AWS (Basic)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
