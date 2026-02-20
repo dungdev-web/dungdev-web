@@ -54,7 +54,7 @@ const dung = {
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-9B59B6?style=for-the-badge&logo=github&logoColor=white)
+![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-9B59B6?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -92,8 +92,12 @@ const dung = {
 - Advanced product search & filtering
 - **98% test coverage**
 
+<div align="center">
 [![Backend](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/BE-datn-) 
+</div>
+<div align="center">
 [![Frontend](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/FE-datn-)
+</div>
 
 </td>
 </tr>
