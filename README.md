@@ -27,7 +27,7 @@ const dung = {
   name: "Lưu Đức Dũng",
   role: "Frontend Developer",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  status: "Seeking Frontend Internship 🚀",
+  status: "Seeking Frontend Internship",
   focus: ["React", "Tailwind CSS", "Modern UI/UX"],
   learning: ["Advanced React Patterns", "TypeScript"],
   values: ["Clean Code", "Performance", "User Experience"],
@@ -54,6 +54,7 @@ const dung = {
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-9B59B6?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -67,31 +68,32 @@ const dung = {
 <tr>
 <td width="50%">
 
-### 📋 Task Management Web App
+### Task Management Web App
 **`React` `Tailwind` `Node.js` `MySQL` `JWT`**
 
 > A full-featured task manager with auth and role-based access control.
 
-- 🔧 Built reusable, responsive UI components
-- 🔐 JWT-based authentication & RBAC
-- ⚡ Query optimization → **40% faster API response**
+- ★ Built reusable, responsive UI components
+- ◆ JWT-based authentication & RBAC
+- ▲ Query optimization → **40% faster API response**
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/username/project)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dungdev-web/quan_ly_thoi_gian)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://quan-ly-thoi-gian.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🛒 E-Commerce Platform
-**`React` `MySQL` `Node.js` `VNPAY` `Docker`**
+### E-Commerce Platform (Team's Project)
+**`React` `MySQL` `NodeJs` `ZaloPay` `Docker`**
 
 > A scalable e-commerce platform with payment integration.
 
-- 💳 VNPAY payment gateway integration
-- 🔍 Advanced product search & filtering
-- ✅ **98% test coverage**
+- ZaloPay payment gateway integration
+- Advanced product search & filtering
+- **98% test coverage**
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/username/ecommerce)
+[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dungdev-web/BE-datn-)
+[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dungdev-web/FE-datn-)
 
 </td>
 </tr>
@@ -103,25 +105,25 @@ const dung = {
 
 > A modern URL shortener with analytics and clean UI.
 
-- 📊 Historical data visualization
-- 📍 Location-based tracking
-- 📈 Interactive analytics charts
+- Historical data visualization
+- Location-based tracking
+- Interactive analytics charts
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/short_link)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dungdev-web/short_link)
 
 </td>
 <td width="50%">
 
-### 👥 Real-Time Employee Management
+### Real-Time Employee Management
 **`React` `WebSocket` `Node.js`**
 
 > Real-time employee management dashboard.
 
-- ⚡ Live data updates via WebSocket
-- 📊 Dashboard & reporting features
-- 🔒 Role-based access control
+- Live data updates via WebSocket
+- Dashboard & reporting features
+- Role-based access control
 
-*Coming soon...*
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dungdev-web/Real-time-employee)
 
 </td>
 </tr>
@@ -135,12 +137,6 @@ const dung = {
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="160"/>
 <img src="https://streak-stats.demolab.com?user=dungdev-web&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" height="160"/>
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
