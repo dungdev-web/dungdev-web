@@ -20,7 +20,7 @@
 
 ---
 
-## `> whoami`
+## `const me = {...}`
 
 ```ts
 const dung = {
@@ -133,14 +133,14 @@ const dung = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dungdev-web&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dungdev-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=dungdev-web&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" height="160"/>
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dungdev-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
