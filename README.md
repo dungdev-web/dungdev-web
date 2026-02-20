@@ -9,7 +9,7 @@
 ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-### Frontend Developer · React Enthusiast · CS Student
+### Frontend Developer · React · Open to Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-dũng-15b3143a2)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dungdev-web)
