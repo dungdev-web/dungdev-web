@@ -146,8 +146,8 @@ const dung = {
 
 <div align="center">
 
-📧 **dung.dev.web@gmail.com**  
-📍 **Ho Chi Minh City, Vietnam**
+**dung.dev.web@gmail.com**  
+**Ho Chi Minh City, Vietnam**
 
 ---
 
