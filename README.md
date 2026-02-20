@@ -92,8 +92,8 @@ const dung = {
 - Advanced product search & filtering
 - **98% test coverage**
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/BE-datn-) **Backend**
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/FE-datn-) **Frontend**
+[![Backend](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/BE-datn-) 
+[![Frontend](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/dungdev-web/FE-datn-)
 
 </td>
 </tr>
