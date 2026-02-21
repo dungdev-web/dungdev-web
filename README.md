@@ -83,7 +83,7 @@ const dung = {
 <td width="50%">
 
 ### E-Commerce Platform (Team's Project)
-**`React` `MySQL` `NodeJs` `ZaloPay` `Docker`**
+**`React` `MySQL` `NodeJs` `ZaloPay` `Docker` `OpenAI`**
 
 > A scalable e-commerce platform with payment integration.
 
