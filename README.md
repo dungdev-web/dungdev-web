@@ -85,6 +85,9 @@ const dung = {
 ### E-Commerce Platform (Team's Project)
 **`React` `MySQL` `NodeJs` `ZaloPay` `Docker` `OpenAI`**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b538f173-c8c9-4dfb-b665-554f673a30a8" width="80" height="80" alt="Logo" />
+</p>
 > A scalable e-commerce platform with payment integration.
 
 - ZaloPay payment gateway integration
